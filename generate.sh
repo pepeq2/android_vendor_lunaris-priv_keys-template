@@ -217,7 +217,7 @@ generate_keys_mk() {
     done
 
     echo >> keys.mk
-    echo "PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys/testkey" >> keys.mk
+    echo "PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lunaris-priv/keys/testkey" >> keys.mk
     echo "PRODUCT_EXTRA_RECOVERY_KEYS :=" >> keys.mk
 }
 
