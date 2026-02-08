@@ -1,9 +1,9 @@
 ```bash
-git clone https://github.com/ProjectMatrixx/android_vendor_lineage-priv_keys-template.git -b master vendor/lineage-priv/keys
+git clone https://github.com/pepeq2/android_vendor_lunaris-priv_keys-template.git -b master vendor/lunaris-priv/keys
 ```
 
 ```bash
-cd vendor/lineage-priv/keys
+cd vendor/lunaris-priv/keys
 ```
 
 ```bash
